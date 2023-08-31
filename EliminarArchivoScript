@@ -1,0 +1,6 @@
+#!/bin/bash
+mkdir /home/vanessa/basura
+echo archivo a borrar:
+read  archivo
+mv $archivo /home/vanessa/basura
+echo archivo eliminado
