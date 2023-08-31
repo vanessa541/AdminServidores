@@ -1,0 +1,3 @@
+echo "#!/bin/bash" > plantilla.sh
+echo VanessaMichelleGrapainAldana >> plantilla.sh
+chmod u+x plantilla.sh
