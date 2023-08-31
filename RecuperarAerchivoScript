@@ -1,0 +1,6 @@
+#!/bin/bash
+
+echo archivo a recuperar: 
+read archivo 
+mv /home/vanessa/basura/$archivo ./
+echo Se recupero con exito 
