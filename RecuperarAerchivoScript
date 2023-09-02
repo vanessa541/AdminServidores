@@ -1,5 +1,5 @@
 #!/bin/bash
-#pide al usuario introducir el archivo que dea recuperar, lo mueve de la carpeta basura al directorio actual 
+#pide al usuario introducir el archivo que desea recuperar, lo mueve de la carpeta basura al directorio actual 
 echo archivo a recuperar: 
 read archivo 
 mv /home/vanessa/basura/$archivo ./
