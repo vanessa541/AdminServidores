@@ -1,5 +1,7 @@
 #!/bin/bash
+#crea un directorio basura, en donde se almacenan los archivos a borrar
 mkdir /home/vanessa/basura
+#pide al usuario ingresar el nombre del archivo o la ruta especifica para borrar
 echo archivo a borrar:
 read  archivo
 mv $archivo /home/vanessa/basura
