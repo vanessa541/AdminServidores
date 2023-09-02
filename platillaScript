@@ -1,4 +1,11 @@
-echo "#!/bin/bash" > plantilla.sh
-echo VanessaMichelleGrapainAldana >> plantilla.sh
-date>>plantilla.sh
-chmod u+x plantilla.sh
+# /usr/bin/plantilla.sh
+echo Nombre del nuevo script:
+read nombre
+echo "#!/bin/bash" > $nombre.sh
+echo VanessaMichelleGrapainAldana >> $nombre.sh
+date>>$nombre.sh
+#asignamos permisos de ejecucion al propietario
+chmod u+x $nombre.sh
+#movemos el archivo a la carpeta bin para que pueda ser ejecutado desde cualquier lado 
+sudo mv ./$nombre.sh /usr/bin
+
