@@ -171,5 +171,9 @@ Extensión para añadir widgets (CPU , UP/DOWN , BATERIA, CALLENDARIO)
 circular widgets
 
 Modificación de fondo 
+![imagen](https://github.com/vanessa541/AdminServidores/assets/111407329/633bac0f-0df0-4b6f-b422-09e6a97739b7)
 
-Modificación de letra 
+
+Modificación de letra
+![imagen](https://github.com/vanessa541/AdminServidores/assets/111407329/c8f43fd2-5fe2-4416-a330-e74266e463e9)
+
