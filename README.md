@@ -103,6 +103,7 @@ Al iniciar la maquina tener a la mano la cuenta de microsoft asociada al equipo,
 - [ ]  Selecciona modo de Instalación manual
 
 <img width="531" alt="image" src="https://github.com/vanessa541/AdminServidores/assets/111407329/b3dd5a58-6a99-4647-8738-74fb06ed74fc">
+
 - [ ] Elegir idioma de instalación
 - [ ] Elegir ubicación
 - [ ] Elegir idioma del teclado
@@ -121,6 +122,15 @@ Realizar particiones del disco manual
 
 Al menos dos particiones una primaria de 45.7 gb y la swap de 8 gb
 
+- [ ] configurar gestor de paquetes apt --> deb.debian.org
+
+- [ ] Seleción de programas
+      Entorno de escritoio Debian
+      GNOME
+      Se instalara con interfaz grafica, si desean intalar sin intefaz gráfica no seleccionar  ninguno entorno grafico.
+      <img width="427" alt="image" src="https://github.com/vanessa541/AdminServidores/assets/111407329/79cefb9a-eadc-4ed6-8e06-2bd0680afbc4">
+
+
 ***Al terminar la instalación*** 
 
 - [ ]  Establecer conexión a la red por medio de cable ethernet
@@ -129,7 +139,13 @@ Al menos dos particiones una primaria de 45.7 gb y la swap de 8 gb
 
 <img width="496" alt="image" src="https://github.com/vanessa541/AdminServidores/assets/111407329/a2353349-5aa1-453e-9337-8875b773393d">
 
-El Linux está listo 
+Yo realice la instalacion con interfaz gráfica, comando para deshabilitarla:  
+ #### systemctl set-default multi-user.target
+  #### reboot
+Comando para volver a la interfaz grafica 
+   #### systemctl set-default graphical.target
+   
+El Linux sin interfaz gráfica está listo 
 
 Instalación de un buscador en línea de comando 
 
