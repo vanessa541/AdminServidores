@@ -159,3 +159,17 @@ $apt-get install links2
 
 # Enchulando mi Linux
 A continuacion presento algunas modificaciones visuales realizadas en mi Linux 
+- En firfox ingresar a GNOME EXTENSIONS, para instalación gráfica.
+  Dash Dock la ventana inferior de los iconos es mas interactiva
+<img width="381" alt="image" src="https://github.com/vanessa541/AdminServidores/assets/111407329/e56b7a7b-e4cf-4e10-bd42-38cb7df46cc2">
+
+ventanas con iconos (cerrar,maximizar,minimizar)
+
+<img width="338" alt="image" src="https://github.com/vanessa541/AdminServidores/assets/111407329/3704d811-72dd-4acf-90bb-e757aecf1446">
+
+Extensión para añadir widgets (CPU , UP/DOWN , BATERIA, CALLENDARIO)
+circular widgets
+
+Modificación de fondo 
+
+Modificación de letra 
