@@ -92,22 +92,24 @@ Al iniciar la maquina tener a la mano la cuenta de microsoft asociada al equipo,
 
 <img width="448" alt="image" src="https://github.com/vanessa541/AdminServidores/assets/111407329/b84aa04a-90b3-410e-9cb7-7d540d59c2fd">
 
-- [ ]  memoria booteable con linux
+- [ ]  Memoria booteable con linux
 
 <img width="527" alt="image" src="https://github.com/vanessa541/AdminServidores/assets/111407329/666a6dd6-df0e-4410-8fd7-e546bbe0059b">
 
-- [ ]  reducir espacio del disco
+- [ ]  Reducir espacio del disco
 
 <img width="544" alt="image" src="https://github.com/vanessa541/AdminServidores/assets/111407329/1f5ceb0f-a04b-4c6c-8cc4-83480598443a">
 
-- [ ]  selecciona modo de Instalación manual
+- [ ]  Selecciona modo de Instalación manual
 
 <img width="531" alt="image" src="https://github.com/vanessa541/AdminServidores/assets/111407329/b3dd5a58-6a99-4647-8738-74fb06ed74fc">
-
-- [ ]  asignar nombre del equipo
+- [ ] Elegir idioma de instalación
+- [ ] Elegir ubicación
+- [ ] Elegir idioma del teclado
+- [ ]  Asignar nombre del equipo
 - [ ]  Asignar contraseña segura para root
-- [ ]  creación de nuevo usuario
-- [ ]  creación de contraseña segura para nuevo usuario
+- [ ]  Creación de nuevo usuario
+- [ ]  Creación de contraseña segura para nuevo usuario
 
 Realizar particiones del disco manual 
 
