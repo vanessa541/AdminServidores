@@ -177,3 +177,6 @@ Modificación de fondo
 Modificación de letra
 ![imagen](https://github.com/vanessa541/AdminServidores/assets/111407329/c8f43fd2-5fe2-4416-a330-e74266e463e9)
 
+neofetch para mostrar información del sistema 
+
+![imagen](https://github.com/vanessa541/AdminServidores/assets/111407329/30a60aed-b717-414e-a4f1-492b552155dc)
