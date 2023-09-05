@@ -1,0 +1,98 @@
+# Preinstall Checklist
+
+- [ ]  marca de mi equipo
+    
+    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/57b0dc4c-5d6b-4365-ab78-02027626b36d/Untitled.png)
+    
+- [ ]  verificar procesador
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/77e9a4c5-0fea-45b3-aa76-b0cfaf74f8f5/Untitled.png)
+
+- [ ]  verificar tipo de sistema
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/667ce0fc-ec9d-47fb-a8e1-6c1c1bea3538/Untitled.png)
+
+- [ ]  verificar espacio disponible del equipo
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/15b0bf14-c7c0-4720-b250-e8a4e598827a/Untitled.png)
+
+- [ ]  verificar condicion de la bateria
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/561815c9-d7c7-449b-9790-659fdbe0bfc0/Untitled.png)
+
+- [ ]  respaldo de infromación importante
+- [ ]  verificar particiones de discos
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/20cbac80-db89-40b6-85bb-c2515c2ca3da/Untitled.png)
+
+- [ ]  veriifcar tarjeta de red
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6e5112f1-0185-4c2c-b383-a800751b32ec/Untitled.png)
+
+- [ ]  verificar tarjeta de sonido
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b1f9bf01-16b2-4242-b6c0-578b639f19cf/Untitled.png)
+
+- [ ]  verificar condición de BIOS/UEFI
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3225eee9-2b97-4349-a0cf-52ec6e1da726/Untitled.png)
+
+- [ ]  desactivar boot seguro→ arranque seguro. Entrar a la BIOS del ordenador, (apagar el equipo y al encendero presionar F2)
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/71b041ae-14a5-42b4-84b0-065aa26f9f72/Untitled.png)
+
+- [ ]  Guardar cambios de la BIOS
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bc6329c0-447a-4c36-ac8a-c0935a32ab54/Untitled.png)
+
+Al iniciar la maquina tener a la mano la cuenta de microsoft asociada al equipo
+
+- [ ]  Obtener clave de Bit Locker
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1f3fcf9a-25de-43d5-bc25-76af9f898b15/Untitled.png)
+
+- [ ]  memoria booteable con linux
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/035bac05-d74b-41dc-8675-1e8e57c14350/Untitled.png)
+
+- [ ]  reducir espacio del disco
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/aa208afb-189a-489e-b85c-4069409ce4f2/Untitled.png)
+
+- [ ]  selecciona modo de Instalación manual
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/309ba719-fb19-432a-8626-b4feeb297e5e/Untitled.png)
+
+- [ ]  asignar nombre del equipo
+- [ ]  Asignar contraseña segura para root
+- [ ]  creación de nuevo usuario
+- [ ]  creación de contraseña segura para nuevo usuario
+
+Realizar particiones del disco manual 
+
+- [ ]  partición primaria
+- [ ]  partición de intercambio (swap) con el tamaño de la memoria ram o el doble de esta
+- [ ]  elegir la partición en la que se instalará el sistema
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c6937435-d0e3-45e1-8ecc-69b81f58a776/Untitled.png)
+
+Al menos dos particiones una primaria de 45.7 gb y la swap de 8 gb
+
+***Al terminar la instalación*** 
+
+- [ ]  Establecer conexión a la red por medio de cable ethernet
+- [ ]  entrar al sistema con el usuario creado
+- [ ]  Verificar el archivo source list
+
+![34B50AE7-B29A-4D95-BF4C-CDA1A1AF9FF4.jpeg](https://prod-files-secure.s3.us-west-2.amazonaws.com/7b0a24c2-95bf-4ab3-9d2d-729cc4d3c7ea/3f7b08f1-858d-422b-a351-b82e88ce486d/34B50AE7-B29A-4D95-BF4C-CDA1A1AF9FF4.jpeg)
+
+El Linux está listo 
+
+Instalación de un buscador en línea de comando 
+
+- [ ]  Instalar Links2, como root
+
+$apt-get install links2 
+
+#links2
+  
