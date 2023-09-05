@@ -37,7 +37,7 @@ expansion de comando
 Davidochobits (2019) Uso de Comillas, Doble Comillas Y Acento Grave en linux, ochobitshacenunbyte. Available at: https://www.ochobitshacenunbyte.com/2019/12/18/uso-de-comillas-doble-comillas-y-acento-grave-en-linux/ (Accessed: 02 September 2023).  
 
 # Preinstall Checklist Debian 12
-## Enlace a chechlist en Notion https://www.notion.so/Intalaci-n-de-debian-12-5bc47953a53f4fc9959ca2634d3b22a3?pvs=4 
+
 - [ ]  marca de mi equipo
 
 <img width="260" alt="Captura de pantalla 2023-09-04 222203" src="https://github.com/vanessa541/AdminServidores/assets/111407329/18f7ca30-cbbd-4a0a-9911-d54202b04f95">
@@ -124,7 +124,7 @@ Al menos dos particiones una primaria de 45.7 gb y la swap de 8 gb
 ***Al terminar la instalación*** 
 
 - [ ]  Establecer conexión a la red por medio de cable ethernet
-- [ ]  entrar al sistema con el usuario creado
+- [ ]  Entrar al sistema con el usuario creado
 - [ ]  Verificar el archivo source list
 
 <img width="496" alt="image" src="https://github.com/vanessa541/AdminServidores/assets/111407329/a2353349-5aa1-453e-9337-8875b773393d">
@@ -141,3 +141,5 @@ $apt-get install links2
 
 <img width="507" alt="image" src="https://github.com/vanessa541/AdminServidores/assets/111407329/71cab9ec-aa55-4622-b9e0-9cf48d84a545">
 
+# Enchulando mi Linux
+A continuacion presento algunas modificaciones visuales realizadas en mi Linux 
